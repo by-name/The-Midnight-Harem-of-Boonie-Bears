@@ -1,6 +1,3 @@
-# Source Generated with Decompyle++
-# File: XCM.pyc (Python 3.6)
-
 import pygame
 import random
 import copy
